@@ -164,6 +164,7 @@ $ git stash drop stash@{n}
 ```
 
 ### 모든 stash 목록을 모두 제거
+
 ```bash
 $ git stash clear
 ```
